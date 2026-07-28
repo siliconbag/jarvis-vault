@@ -26,16 +26,21 @@
 5. Правки в перерывах: поправил файл -> push -> статика обновилась -> у всех агентов свежее.
 6. Уроки пишутся ДЛЯ АГЕНТА участника (он ведет человека), формат - shablony/shablon-uroka.md.
 
-## Кто что заполняет (дедлайн - пре-день 29.07 15:00)
+## Кто что заполняет (дедлайн - пре-день 29.07 15:00; сетка уточнена планеркой 28.07)
 
 | Файл | Ответственный | Статус |
 |---|---|---|
-| index.md, raspisanie.md, chto-delat-esli.md, shablony/shablon-uroka.md, uroki/den1-s1 | АС | скелет готов 27.07 |
+| index.md, raspisanie.md, chto-delat-esli.md, shablony/shablon-uroka.md, uroki/den1-s1 | АС | готово, обновлено 28.07 |
 | ustanovka/opencode.md | ИИв | заглушка |
-| ustanovka/hermes.md, github.md, vps-timeweb.md, minimax.md | КУ | заглушка |
+| ustanovka/hermes.md, github.md, minimax.md | КУ | заглушка |
+| ustanovka/vps.md (3 сервиса: TimeWeb / чешский СБП / King-Servers) | КУ (оффер) + ИИв (ссылки) + АС (переезд Hermes) | заглушка |
+| ustanovka/sinhronizaciya-volta.md (GitHub / Яндекс.Диск WebDAV) | АС + КУ | заглушка |
+| ustanovka/obsidian-plaginy.md (гигиена базы - боль из анкет) | ИИв | заглушка |
 | ustanovka/golos.md | АС | заглушка |
-| ustanovka/tg-bot.md | АС + КУ (кто доводит связку) | заглушка |
-| uroki/den1-s2..den2-s4 | лидеры блоков по плану | каркасы из плана |
+| ustanovka/tg-bot.md (+ подбор ников агентом) | АС | заглушка |
+| uroki/den1-s2 (Obsidian+профиль), den2-s1 (данные) | КУ (+ИИв) | каркасы 28.07 |
+| uroki/den1-s3 (кейсы: календарь/задачник ИИв, совет КУ, 2 АС) | все трое | каркас 28.07 |
+| uroki/den1-s4 (мега-док), den2-s2 (дашборд), den2-s3 (ресеч/доки), den2-s4 (финал) | АС | каркасы 28.07 |
 | viki/ (предразмеченная структура второго мозга) | КУ | заглушка |
 | shablony/oprosnik-profilya.md | КУ | заглушка |
 | org.md, obed.md | КУ (площадка его) | заглушка |

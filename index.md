@@ -15,24 +15,26 @@ description: Каталог всех материалов тренинга. Аг
 ## Установка и подключение
 - `ustanovka/opencode.md` - поставить OpenCode (Mac / Windows)
 - `ustanovka/openrouter-klyuch.md` - подключить личный ключ OpenRouter (ключ выдает бот, не хаб)
-- `ustanovka/hermes.md` - поставить Hermes: постоянный помощник
+- `ustanovka/hermes.md` - поставить Hermes локально: постоянный помощник
+- `ustanovka/vps.md` - VPS (TimeWeb / чешский / King-Servers) и Hermes в облаке
 - `ustanovka/obsidian.md` - Obsidian + свой Vault (второй мозг)
+- `ustanovka/sinhronizaciya-volta.md` - синхронизация волта: GitHub / Яндекс.Диск / VPS, gitignore для личного
+- `ustanovka/obsidian-plaginy.md` - гигиена базы: битые ссылки, устаревшие заметки
 - `ustanovka/github.md` - GitHub по-простому: зачем и как
 - `ustanovka/tg-bot.md` - свой Telegram-бот и связка с Hermes
 - `ustanovka/golos.md` - голосовой набор: диктуешь, не печатаешь
 - `ustanovka/pochta-yandex.md` - тестовый почтовый ящик (день 2)
-- `ustanovka/vps-timeweb.md` - арендовать VPS и переселить Джарвиса в облако (день 2)
-- `ustanovka/minimax.md` - подписка на модель после тренинга, оплата из РФ
+- `ustanovka/minimax.md` - модели после тренинга, оплата из РФ
 
 ## Уроки (агент ведет участника по шагам)
-- `uroki/den1-s1-platforma.md` - День 1, слот 1: платформа и первое знакомство с агентом
-- `uroki/den1-s2-profil.md` - День 1, слот 2: Vault, профиль, ассистент узнает тебя
-- `uroki/den1-s3-keysy.md` - День 1, слот 3: первые сильные кейсы
-- `uroki/den1-s4-svoy-scenariy.md` - День 1, слот 4: свой сценарий + Джарвис в телефоне
-- `uroki/den2-s1-oblako.md` - День 2, слот 1: разбор утра, докрутка, переезд в облако
-- `uroki/den2-s2-dannye.md` - День 2, слот 2: почта, календарь, CRM
-- `uroki/den2-s3-research.md` - День 2, слот 3: глубокий ресеч и презентация
-- `uroki/den2-s4-final.md` - День 2, слот 4: финал, демо, план на 30 дней
+- `uroki/den1-s1-platforma.md` - День 1, слот 1: платформа, Hermes (локально или VPS), свой бот
+- `uroki/den1-s2-profil.md` - День 1, слот 2: Obsidian, Vault, профиль, синхронизация
+- `uroki/den1-s3-keysy.md` - День 1, слот 3: живые кейсы ведущих
+- `uroki/den1-s4-svoy-scenariy.md` - День 1, слот 4: свой сценарий + анонс дня 2
+- `uroki/den2-s1-dannye.md` - День 2, слот 1: разбор утра + подключаем данные
+- `uroki/den2-s2-dashbord.md` - День 2, слот 2: персональный дашборд
+- `uroki/den2-s3-research.md` - День 2, слот 3: глубокий ресеч, доки, безопасность
+- `uroki/den2-s4-final.md` - День 2, слот 4: демо участников, план на 30 дней
 
 ## Шаблоны
 - `shablony/oprosnik-profilya.md` - вопросы для интервью «агент узнает тебя»
