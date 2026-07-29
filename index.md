@@ -45,6 +45,7 @@ description: Каталог всех материалов тренинга. Аг
 - `uroki/den2-s4-final.md` - День 2, слот 4: демо участников, план на 30 дней
 
 ## Шаблоны
+- `shablony/shablon-uroka.md` - формат урока (для ведущих: как писать уроки под агента)
 - `shablony/sovet-direktorov.md` - скилл «Совет директоров» под OpenCode (субагенты по очереди)
 - `shablony/oprosnik-profilya.md` - вопросы для интервью «агент узнает тебя»
 - `shablony/svoy-scenariy.md` - шаблон описания своего сценария (слот 4)
