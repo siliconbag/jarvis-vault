@@ -23,6 +23,10 @@ description: Каталог всех материалов тренинга. Аг
 - `ustanovka/github.md` - GitHub по-простому: зачем и как
 - `ustanovka/tg-bot.md` - свой Telegram-бот и связка с Hermes
 - `ustanovka/golos.md` - голосовой набор: диктуешь, не печатаешь
+- `ustanovka/exa.md` - поиск для агента (Exa): $20 при регистрации, без карты
+- `ustanovka/granola.md` - запись встреч и созвонов: контекст в базу сам
+- `ustanovka/yandex-disk.md` - синхронизация волта через Яндекс.Диск (WebDAV; пароль приложения активируется 2-3 часа!)
+- `ustanovka/github-volt.md` - свой приватный GitHub-репо для волта: история и откат
 - `ustanovka/pochta-yandex.md` - тестовый почтовый ящик (день 2)
 - `ustanovka/minimax.md` - модели после тренинга, оплата из РФ
 
@@ -37,6 +41,7 @@ description: Каталог всех материалов тренинга. Аг
 - `uroki/den2-s4-final.md` - День 2, слот 4: демо участников, план на 30 дней
 
 ## Шаблоны
+- `shablony/sovet-direktorov.md` - скилл «Совет директоров» под OpenCode (субагенты по очереди)
 - `shablony/oprosnik-profilya.md` - вопросы для интервью «агент узнает тебя»
 - `shablony/svoy-scenariy.md` - шаблон описания своего сценария (слот 4)
 - `shablony/plan-30.md` - шаблон плана на 30 дней после тренинга
