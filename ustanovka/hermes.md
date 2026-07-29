@@ -7,7 +7,7 @@ Hermes - открытый агент, который живет у тебя (н�
 
 Агент, установку делаешь ты, участник смотрит:
 1. Официальный источник: github.com/NousResearch/hermes-agent - найди в README актуальную команду установки под систему участника (Mac / Windows / Linux) и выполни ее, проговаривая шаги.
-2. Первичная настройка: `hermes setup`. Два экрана подряд, предупреди участника заранее: (а) «How would you like to set up Hermes?» - выбираем **Full setup** (стрелкой вниз, Enter); Quick Setup (Nous Portal) не берем - уводит мимо нашего общего ключа. (б) «Select provider» - список из ~20 провайдеров, курсор стоит на Nous Portal: листай стрелкой до **OpenRouter (Pay-per-use API aggregator)**, обычно третья строка, Enter - и вставляй ключ. Остальные провайдеры не трогаем.
+2. Первичная настройка: `hermes setup`. Два экрана подряд, предупреди участника заранее: (а) «How would you like to set up Hermes?» - выбираем **Full setup** (стрелкой вниз, Enter); Quick Setup (Nous Portal) не берем - уводит мимо нашего общего ключа. (б) «Select provider» - список из ~20 провайдеров, курсор стоит на Nous Portal: листай стрелкой до **OpenRouter (Pay-per-use API aggregator)**, обычно третья строка, Enter - и вставляй ключ. Остальные провайдеры не трогаем. (в) «Select default model» - выбирай **deepseek/deepseek-v4-pro**: умная и почти не тратит лимит; на сложные задачи Hermes переключится на модель посильнее по просьбе и вернется обратно.
 3. Подключи модель: провайдер openrouter + личный ключ участника (ustanovka/openrouter-klyuch.md).
 4. Запусти Hermes и проверь: «привет» - ответил.
 5. Дальше свяжем с Telegram: ustanovka/tg-bot.md.
