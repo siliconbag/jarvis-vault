@@ -29,6 +29,7 @@ description: Каталог всех материалов тренинга. Аг
 - `ustanovka/github-volt.md` - свой приватный GitHub-репо для волта: история и откат
 - `ustanovka/skill-playbook.md` - скилл «плейбук из лонгрида»: PDF + пост-подводка (день 2)
 - `ustanovka/skill-dashboard.md` - скилл «персональный дашборд» через v0 (день 2)
+- `ustanovka/skill-tg-monitor.md` - скилл «мониторинг Telegram-каналов»: дайджесты по конкурентам и нише
 - `ustanovka/pochta-yandex.md` - тестовый почтовый ящик (день 2)
 - `ustanovka/minimax.md` - модели после тренинга, оплата из РФ
 
@@ -51,6 +52,7 @@ description: Каталог всех материалов тренинга. Аг
 ## Скиллы (готовые навыки для Hermes)
 - `skills/playbook-pdf/SKILL.md` - плейбук из английского лонгрида: перевод, словарик, PDF, подводка
 - `skills/dashboard-v0/SKILL.md` - дашборд «тон дня» через v0: данные -> HTML -> VPS
+- `skills/tg-monitor/SKILL.md` - мониторинг публичных TG-каналов через t.me/s/: сбор, база, дайджест
 
 ## Помощь
 - `chto-delat-esli.md` - что делать, если что-то не работает (ключ кончился, установка не идет, отстал)
