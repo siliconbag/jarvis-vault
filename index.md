@@ -14,6 +14,7 @@ description: Каталог всех материалов тренинга. Аг
 - `obed.md` - где поесть вокруг Мясницкой (спроси меня, я подберу)
 
 ## Установка и подключение
+- `ustanovka/terminal.md` - что такое терминал и где он: две минуты, скачивать ничего не надо
 - `ustanovka/opencode.md` - поставить OpenCode (Mac / Windows)
 - `ustanovka/openrouter-klyuch.md` - подключить личный ключ OpenRouter (ключ выдает бот, не хаб)
 - `ustanovka/hermes.md` - поставить Hermes локально: постоянный помощник
