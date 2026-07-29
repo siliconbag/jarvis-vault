@@ -30,6 +30,7 @@ description: Каталог всех материалов тренинга. Аг
 - `ustanovka/skill-playbook.md` - скилл «плейбук из лонгрида»: PDF + пост-подводка (день 2)
 - `ustanovka/skill-dashboard.md` - скилл «персональный дашборд» через v0 (день 2)
 - `ustanovka/skill-tg-monitor.md` - скилл «мониторинг Telegram-каналов»: дайджесты по конкурентам и нише
+- `ustanovka/skill-web-monitor.md` - скилл «мониторинг сайтов»: скрейпинг конкурентов, новостей, упоминаний
 - `ustanovka/pochta-yandex.md` - тестовый почтовый ящик (день 2)
 - `ustanovka/minimax.md` - модели после тренинга, оплата из РФ
 
@@ -53,6 +54,7 @@ description: Каталог всех материалов тренинга. Аг
 - `skills/playbook-pdf/SKILL.md` - плейбук из английского лонгрида: перевод, словарик, PDF, подводка
 - `skills/dashboard-v0/SKILL.md` - дашборд «тон дня» через v0: данные -> HTML -> VPS
 - `skills/tg-monitor/SKILL.md` - мониторинг публичных TG-каналов через t.me/s/: сбор, база, дайджест
+- `skills/web-monitor/SKILL.md` - скрейпинг и мониторинг сайтов: crawl4ai, markitdown, browser-use и когда что
 
 ## Помощь
 - `chto-delat-esli.md` - что делать, если что-то не работает (ключ кончился, установка не идет, отстал)
