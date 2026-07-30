@@ -41,6 +41,7 @@ description: Шпаргалка проблем - ключ кончился, ус
 ## ...запутался в меню настройки Hermes (визард)
 
 Не воюй с экранами - настрой через своего агента: скажи OpenCode, что нужно поменять в Hermes, он сам поправит `~/.hermes/config.yaml` и `~/.hermes/.env` и перезапустит гейтвей (раздел «Настройка через агента» в ustanovka/hermes.md). Симптом «голосовухи не распознаются»: попроси агента выполнить `grep -i groq ~/.hermes/.env` - если в GROQ_API_KEY текст вместо ключа, визард промахнулся: впиши ключ, `hermes config set stt.provider groq`, `hermes gateway restart`.
+Симптом «русская голосовуха распознается английской ерундой» («Hello, you hear me?»): работает локальный whisper с крошечной моделью base (агент мог поставить его сам) или не задан язык. Лечение: `hermes config set stt.provider groq` + `hermes config set stt.language ru` + `hermes gateway restart`.
 
 ## ...агент завис / думает бесконечно / делает не то
 
