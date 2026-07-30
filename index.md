@@ -20,7 +20,7 @@ description: Каталог всех материалов тренинга. Аг
 - `ustanovka/hermes.md` - поставить Hermes локально: постоянный помощник
 - `ustanovka/vps.md` - VPS: обзор провайдеров и локаций
 - `ustanovka/vps-smartape.md` - купить чешский VPS на SmartApe: тариф, оплата, первый вход (проверенный путь)
-- `ustanovka/hermes-na-vps.md` - поставить Hermes на купленный сервер: автозапуск, волт, расписание
+- `ustanovka/hermes-na-vps.md` - Hermes на сервере: установка с нуля и переезд с ноутбука (переключение бота)
 - `ustanovka/obsidian.md` - Obsidian + свой Vault (второй мозг)
 - `ustanovka/sinhronizaciya-volta.md` - синхронизация волта: GitHub / Яндекс.Диск / VPS, gitignore для личного
 - `ustanovka/volt-cherez-github.md` - схема ноутбук - GitHub - сервер: токен, плагин Obsidian Git, доступ помощника к волту
@@ -36,6 +36,7 @@ description: Каталог всех материалов тренинга. Аг
 - `ustanovka/skill-dashboard.md` - скилл «персональный дашборд» через v0 (день 2)
 - `ustanovka/skill-tg-monitor.md` - скилл «мониторинг Telegram-каналов»: дайджесты по конкурентам и нише
 - `ustanovka/skill-web-monitor.md` - скилл «мониторинг сайтов»: скрейпинг конкурентов, новостей, упоминаний
+- `ustanovka/skill-bitrix.md` - скилл «Битрикс24»: сделки, воронка, звонки и записи
 - `ustanovka/pochta-yandex.md` - тестовый почтовый ящик (день 2)
 - `ustanovka/minimax.md` - подписка MiniMax за 20 долларов: ключ подписки и подключение
 - `ustanovka/kimi.md` - подписка Kimi Code за 39 долларов: консоль ключей и подключение
@@ -45,7 +46,7 @@ description: Каталог всех материалов тренинга. Аг
 - `uroki/den1-s2-profil.md` - День 1, слот 2: Obsidian, Vault, профиль, синхронизация
 - `uroki/den1-s3-keysy.md` - День 1, слот 3: живые кейсы ведущих
 - `uroki/den1-s4-svoy-scenariy.md` - День 1, слот 4: свой сценарий + анонс дня 2
-- `uroki/den2-s1-dannye.md` - День 2, слот 1: разбор утра + подключаем данные
+- `uroki/den2-s1-dannye.md` - День 2, слот 1: разбор вечера + переезд на VPS + данные
 - `uroki/den2-s2-dashbord.md` - День 2, слот 2: персональный дашборд
 - `uroki/den2-s3-research.md` - День 2, слот 3: глубокий ресеч, доки, безопасность
 - `uroki/den2-s4-final.md` - День 2, слот 4: демо участников, план на 30 дней
@@ -70,6 +71,9 @@ description: Каталог всех материалов тренинга. Аг
 ## Бонусы
 - `bonus/copilot-100.md` - 100 приемов Microsoft Copilot; блок «Промптинг» (26-50) универсален для любого агента
 - `bonus/officecli.md` - OfficeCLI: агент делает Word, Excel и PPTX без установленного Office (23К звезд)
+
+## Презентации ведущих
+- `prezentacii/README.md` - слайды блоков (день 1: второй мозг)
 
 ## Для кураторов
 - `kuratoram/rol-kuratora.md` - что делает куратор в каждом блоке
