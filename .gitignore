@@ -19,3 +19,6 @@ secrets*
 files/**/*.mp4
 files/**/*.mov
 files/**/*.zip
+
+# служебный файл проверки доступа
+ustanovka/.probe

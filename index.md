@@ -18,9 +18,12 @@ description: Каталог всех материалов тренинга. Аг
 - `ustanovka/opencode.md` - поставить OpenCode (Mac / Windows)
 - `ustanovka/openrouter-klyuch.md` - подключить личный ключ OpenRouter (ключ выдает бот, не хаб)
 - `ustanovka/hermes.md` - поставить Hermes локально: постоянный помощник
-- `ustanovka/vps.md` - VPS (TimeWeb / чешский / King-Servers) и Hermes в облаке
+- `ustanovka/vps.md` - VPS: обзор провайдеров и локаций
+- `ustanovka/vps-smartape.md` - купить чешский VPS на SmartApe: тариф, оплата, первый вход (проверенный путь)
+- `ustanovka/hermes-na-vps.md` - поставить Hermes на купленный сервер: автозапуск, волт, расписание
 - `ustanovka/obsidian.md` - Obsidian + свой Vault (второй мозг)
 - `ustanovka/sinhronizaciya-volta.md` - синхронизация волта: GitHub / Яндекс.Диск / VPS, gitignore для личного
+- `ustanovka/volt-cherez-github.md` - схема ноутбук - GitHub - сервер: токен, плагин Obsidian Git, доступ помощника к волту
 - `ustanovka/obsidian-plaginy.md` - гигиена базы: битые ссылки, устаревшие заметки
 - `ustanovka/github.md` - GitHub по-простому: зачем и как
 - `ustanovka/tg-bot.md` - свой Telegram-бот и связка с Hermes
@@ -34,7 +37,8 @@ description: Каталог всех материалов тренинга. Аг
 - `ustanovka/skill-tg-monitor.md` - скилл «мониторинг Telegram-каналов»: дайджесты по конкурентам и нише
 - `ustanovka/skill-web-monitor.md` - скилл «мониторинг сайтов»: скрейпинг конкурентов, новостей, упоминаний
 - `ustanovka/pochta-yandex.md` - тестовый почтовый ящик (день 2)
-- `ustanovka/minimax.md` - модели после тренинга, оплата из РФ
+- `ustanovka/minimax.md` - подписка MiniMax за 20 долларов: ключ подписки и подключение
+- `ustanovka/kimi.md` - подписка Kimi Code за 39 долларов: консоль ключей и подключение
 
 ## Уроки (агент ведет участника по шагам)
 - `uroki/den1-s1-platforma.md` - День 1, слот 1: платформа, Hermes (локально или VPS), свой бот
