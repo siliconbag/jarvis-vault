@@ -1,0 +1,21 @@
+# служебное Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/obsidian-git/data.json
+.trash/
+
+# системное
+.DS_Store
+Thumbs.db
+
+# секреты - никогда в git
+*.key
+*.pem
+.env
+secrets*
+
+# тяжелое
+files/**/*.mp4
+files/**/*.mov
+files/**/*.zip

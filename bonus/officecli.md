@@ -1,5 +1,5 @@
 ---
-description: OfficeCLI - агент работает с Word, Excel и PowerPoint без установленного Office: доки, таблицы, презентации из терминала.
+description: "OfficeCLI - агент работает с Word, Excel и PowerPoint без установленного Office: доки, таблицы, презентации из терминала."
 ---
 # OfficeCLI: Office-документы без Office
 

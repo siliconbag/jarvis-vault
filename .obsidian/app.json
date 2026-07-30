@@ -1,0 +1,12 @@
+{
+  "attachmentFolderPath": "files",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_inbox",
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false,
+  "livePreview": true,
+  "propertiesInDocument": "source",
+  "userIgnoreFilters": [
+    "archive/"
+  ]
+}

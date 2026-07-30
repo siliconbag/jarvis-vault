@@ -1,0 +1,71 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiAreaChart",
+      "LiAlertTriangle",
+      "LiAsterisk",
+      "LiArrowDownWideNarrow",
+      "LiAlertOctagon"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "!01_Начни отсюда.md": {
+    "iconName": "LiAlertOctagon",
+    "iconColor": "#f40606"
+  },
+  "!02_Заметки за последние 7 дней.md": {
+    "iconName": "LiArrowDownWideNarrow",
+    "iconColor": "#19be58"
+  },
+  "!03_Последние измененные заметки.md": {
+    "iconName": "LiAsterisk",
+    "iconColor": "#1f26f4"
+  },
+  "!04_МоС Карта курса.md": {
+    "iconName": "LiAlertTriangle",
+    "iconColor": "#e228db"
+  },
+  "!05_Состояние базы.md": {
+    "iconName": "LiAreaChart",
+    "iconColor": "#580ec8"
+  },
+  "uroki": "📘",
+  "ustanovka": "🔧",
+  "shablony": "🧩",
+  "plaginy": "🔌",
+  "obuchenie": "🎓",
+  "viki": "🧠",
+  "skills": "⚡",
+  "kuratoram": "🧑‍🏫",
+  "bonus": "🎁",
+  "files": "🖼️",
+  "archive": "📦",
+  "profile": "🙋",
+  "cases": "📄",
+  "_inbox": "📥"
+}
