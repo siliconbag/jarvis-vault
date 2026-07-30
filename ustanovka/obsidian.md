@@ -1,5 +1,5 @@
 ---
-description: Obsidian - окно в твой второй мозг: установка и открытие Vault.
+description: "Obsidian - окно в твой второй мозг: установка и открытие Vault."
 ---
 # Obsidian: дом для второго мозга
 
