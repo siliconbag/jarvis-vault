@@ -65,6 +65,7 @@ description: Каталог всех материалов тренинга. Аг
 
 ## Бонусы
 - `bonus/copilot-100.md` - 100 приемов Microsoft Copilot; блок «Промптинг» (26-50) универсален для любого агента
+- `bonus/officecli.md` - OfficeCLI: агент делает Word, Excel и PPTX без установленного Office (23К звезд)
 
 ## Для кураторов
 - `kuratoram/rol-kuratora.md` - что делает куратор в каждом блоке
