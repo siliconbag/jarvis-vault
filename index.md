@@ -79,6 +79,7 @@ description: Каталог всех материалов тренинга. Аг
 - `skills/dashboard-v0/SKILL.md` - дашборд «тон дня» через v0: данные -> HTML -> VPS
 - `skills/tg-monitor/SKILL.md` - мониторинг публичных TG-каналов через t.me/s/: сбор, база, дайджест
 - `skills/web-monitor/SKILL.md` - скрейпинг и мониторинг сайтов: crawl4ai, markitdown, browser-use и когда что
+- `skills/security-audit/SKILL.md` - аудит безопасности сервера и агента; точечная проверка после взломов октября 2026 (VMmanager, PHP2Shell, OpenCode). Описание для человека - `ustanovka/skill-security.md`
 
 ## Помощь
 - `chto-delat-esli.md` - что делать, если что-то не работает (ключ кончился, установка не идет, отстал)
